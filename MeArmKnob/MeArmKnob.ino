@@ -1,10 +1,9 @@
 /*
- Controlling a servo position using a potentiometer (variable resistor)
- by Michal Rinott <http://people.interaction-ivrea.it/m.rinott>
+ Controlling a MeArm 1.0
+ by Alejandro Mesias
 
- modified on 8 Nov 2013
- by Scott Fitzgerald
- http://arduino.cc/en/Tutorial/Knob
+ modified on 29 Dec 2015
+ by Alejandro Mesias
 */
 
 #include <Servo.h>
